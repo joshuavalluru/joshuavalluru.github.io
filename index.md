@@ -1,32 +1,33 @@
+---
 ## Music Portfolio
 ---
 
 ### Wave
 I have chosen this Latin tune by Antonio Carlos Jobim because of its incredible harmony. I have recorded this tune with Michael Mitchell (drums) and Danny Gerz (Bass) in a guitar trio format on October 8, 2019.
 
-https://www.youtube.com/watch?v=Ir75kPHzuM4
+* [https://www.youtube.com/watch?v=Ir75kPHzuM4](https://www.youtube.com/watch?v=Ir75kPHzuM4)
 
 ### Deluge
 Wayne Shorter’s modern extension of the bebop language has always fascinated me. This 8 Bar song is unique because of its modal qualities and the interpretive freedom it grants the improviser. I have recorded this tune with Michael Mitchell (drums) and Danny Gerz (Bass) in a guitar trio format on October 8, 2019.
 
-https://www.youtube.com/watch?v=4q9p32L_gZc
+* [https://www.youtube.com/watch?v=4q9p32L_gZc](https://www.youtube.com/watch?v=4q9p32L_gZc)
 
 ### There Will Never Be Another You
 This jazz standard by Harry Warren is a popular tune that is called very often at jam sessions. Because it is my favorite tune, I have sought to pay homage to its original arrangement as a jazz ballad. I have recorded this tune with Michael Mitchell (drums) and Danny Gerz (Bass) in a guitar trio format on October 8, 2019.
 
-https://www.youtube.com/watch?v=A12zThJqDos
+* [https://www.youtube.com/watch?v=A12zThJqDos](https://www.youtube.com/watch?v=A12zThJqDos)
 
 ### Donna Lee
 Miles Davis tunes have always inspired me, and this contrafact over the changes to Back Home in Indiana is both an exciting tune and harmonically dense piece. I have recorded this tune with Michael Mitchell (drums) and Danny Gerz (Bass) in a guitar trio format on October 8, 2019.
 
-https://www.youtube.com/watch?v=MXPY_Cp8gCo
+* [https://www.youtube.com/watch?v=MXPY_Cp8gCo](https://www.youtube.com/watch?v=MXPY_Cp8gCo)
 
 ### Chi Chi
 Charlie Parker’s blues heads have long been a subject of discussion, and I have rigorously studied some of his heads like Blues for Alice. Yet at jazz sessions, I am constantly surprised by how rarely played this blues head is. I have recorded this tune with Michael Mitchell (drums) and Danny Gerz (Bass) in a guitar trio format on October 8, 2019.
 
-https://www.youtube.com/watch?v=MIPDI9J8fgE
+* [https://www.youtube.com/watch?v=MIPDI9J8fgE](https://www.youtube.com/watch?v=MIPDI9J8fgE)
 
-
+---
 ## Computer Programming Background
 ---
 I have experience in building both traditional (SVMs) and deep learning (CNNs) ML models for my projects as a research intern at Stanford, using TensorFlow and scikit-learn frameworks.
@@ -40,6 +41,7 @@ Platforms and skills:
 * **Data tools:** NumPy, Plotly
 * **Cloud:** Google Cloud, AWS, Github
 
+---
 ## Research Project under Researcher Lakkaraju’s (Stanford/ Harvard)
 ---
 
@@ -62,6 +64,7 @@ The fact that these models are black boxes and the human experts, who are end us
 * [Presentation](https://drive.google.com/open?id=1CpMaN0DkQs_SlSzH9ESy9ogvOCQqQ0Nf)
 
 
+---
 ## Audio/Video Software Tools/Applications
 ---
 
@@ -82,7 +85,7 @@ For advanced creation of multimedia content, I use iMovie. It was a rich UI for 
 I extract the audio stream from the video first using FFMpeg and then use Audacity, which is another open source audio editing tool for enhancing and combining audio streams. It allows me to do things like de-noising, adjusting the gain,  speech enhancement etc. Once the audio stream is ready, I can put it back into the video using iMovie or FFmpeg.
 
 
-
+---
 ## AI Club Presentations
 ---
 
