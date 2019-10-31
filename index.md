@@ -89,7 +89,7 @@ I extract the audio stream from the video first using FFMpeg and then use Audaci
 ---
 
 As Vice President of  Harker AI Club
-* Presented several lectures pertaining to topics such as Naive Bayes, Linear Regression, and other AI modeling algorithms
+* Presented several lectures pertaining to topics such as [Naive Bayes, Linear Regression, and other AI modeling algorithms](https://drive.google.com/file/d/1cDc5trB18zh5evxxHjocZ8mmdUzVcai6/view)
 * Guest Speaker coordinator
 * Invited numerous AI visionaries such as Google’s Nitin Khandelwal
 * Presented independent research projects at school Symposiums
