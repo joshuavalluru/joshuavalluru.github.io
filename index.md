@@ -44,7 +44,7 @@ Platforms and skills:
 * **Cloud:** Google Cloud, AWS, Github
 
 ---
-## Research Project under Researcher Lakkaraju’s (Stanford/ Harvard)
+## Research Projects under Himabindu Lakkaraju (Stanford/ Harvard)
 ---
 
 ### Predicting Socio Economic Sentiments
