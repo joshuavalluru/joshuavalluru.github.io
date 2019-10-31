@@ -83,6 +83,14 @@ For advanced creation of multimedia content, I use iMovie. It was a rich UI for 
  
 I extract the audio stream from the video first using FFMpeg and then use Audacity, which is another open source audio editing tool for enhancing and combining audio streams. It allows me to do things like de-noising, adjusting the gain,  speech enhancement etc. Once the audio stream is ready, I can put it back into the video using iMovie or FFmpeg.
 
+---
+## SalvationPC
+---
+
+* Our website : [SalvationPC](https://www.salvationpc.com/)
+* Business Model  [deck](https://drive.google.com/open?id=1XDhYpjqmDSUPax3Wluco-qd6N_PvB-oD) , [Lean Canvas Modelling](https://drive.google.com/open?id=1uxCyN-N1rmDb8dDx8xiLC-YYfsZkksjqaPr4r0-Sk4Q)
+* Latest investor update : [report](https://drive.google.com/open?id=1YGos7Isf70lu3iPDpb9eBmMRd5SEsP3x)
+
 
 ---
 ## AI Club Presentations
