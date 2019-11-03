@@ -68,6 +68,8 @@ The fact that these models are black boxes and the human experts, who are end us
 ## SalvationPC
 ---
 
+SalvationPC receives donations of computer hardware that we distribute to the less privileged in the Bay Area. Apart from saving individuals the strenuous labor of repairing parts that require refurbishing, our team hand delivers the finished product to any desired location within the area.
+
 * Our website : [SalvationPC](https://www.salvationpc.com/)
 * Business Model  [deck](https://drive.google.com/open?id=1XDhYpjqmDSUPax3Wluco-qd6N_PvB-oD) , [Lean Canvas Modelling](https://drive.google.com/open?id=1uxCyN-N1rmDb8dDx8xiLC-YYfsZkksjqaPr4r0-Sk4Q)
 * Latest investor update : [report](https://drive.google.com/open?id=1YGos7Isf70lu3iPDpb9eBmMRd5SEsP3x)
