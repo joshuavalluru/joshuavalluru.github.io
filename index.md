@@ -40,6 +40,7 @@ Platforms and skills:
 * **Languages:** Java, Python
 * **Data tools:** NumPy, Plotly
 * **Cloud:** Google Cloud, AWS, Github
+* **Audio/Video Software:** Video Editing, Making Multimedia Content, Audio Editing / Enhancement
 
 ---
 ## Research Projects under Himabindu Lakkaraju (Stanford/ Harvard)
@@ -63,28 +64,6 @@ The fact that these models are black boxes and the human experts, who are end us
 
 * [Presentation](https://drive.google.com/open?id=1CpMaN0DkQs_SlSzH9ESy9ogvOCQqQ0Nf)
 
-
----
-## Audio/Video Software Tools/Applications
----
-
-### Video Editing
- 
-For most of the video editing requirements I use FFMPEG which is an open source video manipulation software. FFMPEG has a powerful command-line interface for controlling and manipulating almost all the parameters of a video. I mainly use it for cropping, transcoding and mixing videos. 
- 
-Uncompressed video is quite large for streaming on internet so video is always compressed with codecs like H.264. The more a video is compressed, the smaller size (bytes) it uses while compromising on video quality. Once a video is ready for streaming, I encode it into multiple quality streams - low, medium, high for instance - to be used for clients of different network (bandwidth) conditions. I do it by manipulating resolution, framerate and bitrate parameters in FFMpeg.
-
-
-### Making Multimedia Content
-
-For advanced creation of multimedia content, I use iMovie. It was a rich UI for splitting and combining audio/video streams within a video file. It allows me to combine videos, change audio streams (for instance, adding a background audio) with a simple UI and visualize the video before publishing it .
-Comfortable with music production software like AbletonLive.
-
-
-### Audio Editing / Enhancement
- 
-I extract the audio stream from the video first using FFMpeg and then use Audacity, which is another open source audio editing tool for enhancing and combining audio streams. It allows me to do things like de-noising, adjusting the gain,  speech enhancement etc. Once the audio stream is ready, I can put it back into the video using iMovie or FFmpeg.
-
 ---
 ## SalvationPC
 ---
@@ -93,13 +72,3 @@ I extract the audio stream from the video first using FFMpeg and then use Audaci
 * Business Model  [deck](https://drive.google.com/open?id=1XDhYpjqmDSUPax3Wluco-qd6N_PvB-oD) , [Lean Canvas Modelling](https://drive.google.com/open?id=1uxCyN-N1rmDb8dDx8xiLC-YYfsZkksjqaPr4r0-Sk4Q)
 * Latest investor update : [report](https://drive.google.com/open?id=1YGos7Isf70lu3iPDpb9eBmMRd5SEsP3x)
 
-
----
-## AI Club Presentations
----
-
-As Vice President of  Harker AI Club
-* Presented several lectures pertaining to topics such as [Naive Bayes, Linear Regression, and other AI modeling algorithms](https://drive.google.com/file/d/1cDc5trB18zh5evxxHjocZ8mmdUzVcai6/view)
-* Guest Speaker coordinator
-* Invited numerous AI visionaries such as Google’s Nitin Khandelwal
-* Presented independent research projects at school Symposiums
