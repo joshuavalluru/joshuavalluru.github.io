@@ -28,7 +28,7 @@ Wayne Shorter’s modern extension of the bebop language has always fascinated m
 * [https://www.youtube.com/watch?v=4q9p32L_gZc](https://www.youtube.com/watch?v=4q9p32L_gZc)
 
 ---
-## Computer Programming Background
+## Computer Programming
 ---
 I have experience in building both traditional (SVMs) and deep learning (CNNs) ML models for my projects as a research intern at Stanford, using TensorFlow and scikit-learn frameworks.
 
@@ -40,7 +40,7 @@ Platforms and skills:
 * **Languages:** Java, Python
 * **Data tools:** NumPy, Plotly
 * **Cloud:** Google Cloud, AWS, Github
-* **Audio/Video Software:** Video Editing, Making Multimedia Content, Audio Editing / Enhancement
+* **Audio/Video Software:** [Video Editing, Making Multimedia Content, Audio Editing / Enhancement](av.md)
 
 ---
 ## Research Projects under Himabindu Lakkaraju (Stanford/ Harvard)
