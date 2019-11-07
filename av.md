@@ -10,7 +10,7 @@ Uncompressed video is quite large for streaming on internet so video is always c
 
 ### Making Multimedia Content
 
-For advanced creation of multimedia content, I use iMovie. It was a rich UI for splitting and combining audio/video streams within a video file. It allows me to combine videos, change audio streams (for instance, adding a background audio) with a simple UI and visualize the video before publishing it.
+For advanced creation of multimedia content, I use iMovie. It has a rich UI for splitting and combining audio/video streams within a video file. It allows me to combine videos, change audio streams (for instance, adding a background audio) with a simple UI and visualize the video before publishing it.
 
 
 ### Audio Editing / Enhancement
