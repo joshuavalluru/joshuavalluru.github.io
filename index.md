@@ -12,7 +12,6 @@ Platforms and skills:
 * **Languages:** Java, Python
 * **Data tools:** NumPy, Plotly
 * **Cloud:** Google Cloud, AWS, Github
-* **Audio/Video Software:** [Video Editing, Making Multimedia Content, Audio Editing / Enhancement](av.md)
 
 ---
 ## Research Projects under Himabindu Lakkaraju (Stanford/ Harvard)
