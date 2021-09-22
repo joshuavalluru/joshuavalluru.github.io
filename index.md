@@ -1,32 +1,4 @@
 
-## Music Portfolio
----
-
-### There Will Never Be Another You
-This jazz standard by Harry Warren is a popular tune that is called very often at jam sessions. Because it is my favorite tune, I have sought to pay homage to its original arrangement as a jazz ballad. I recorded this tune with Michael Mitchell (drums) and Danny Gerz (bass) in a guitar trio format on October 8, 2019.
-
-* [https://www.youtube.com/watch?v=A12zThJqDos](https://www.youtube.com/watch?v=A12zThJqDos)
-
-### Donna Lee
-Miles Davis tunes have always inspired me, and this contrafact over the changes to Back Home in Indiana is both an exciting tune and a harmonically dense piece. I recorded this tune with Michael Mitchell (drums) and Danny Gerz (bass) in a guitar trio format on October 8, 2019.
-
-* [https://www.youtube.com/watch?v=MXPY_Cp8gCo](https://www.youtube.com/watch?v=MXPY_Cp8gCo)
-
-### Chi Chi
-Charlie Parker’s blues heads have long been a subject of discussion, and I have rigorously studied some of his heads like Blues for Alice. Yet at jazz sessions, I am constantly surprised by how rarely played Chi Chi is. I recorded this tune with Michael Mitchell (drums) and Danny Gerz (bass) in a guitar trio format on October 8, 2019.
-
-* [https://www.youtube.com/watch?v=MIPDI9J8fgE](https://www.youtube.com/watch?v=MIPDI9J8fgE)
-
-### Wave
-I have chosen this Latin tune by Antonio Carlos Jobim because of its incredible harmony. I recorded this tune with Michael Mitchell (drums) and Danny Gerz (bass) in a guitar trio format on October 8, 2019.
-
-* [https://www.youtube.com/watch?v=Ir75kPHzuM4](https://www.youtube.com/watch?v=Ir75kPHzuM4)
-
-### Deluge
-Wayne Shorter’s modern extension of the bebop language has always fascinated me. This rather short tune is unique because of its modal qualities and the interpretive freedom it grants the improviser. I recorded this tune with Michael Mitchell (drums) and Danny Gerz (bass) in a guitar trio format on October 8, 2019.
-
-* [https://www.youtube.com/watch?v=4q9p32L_gZc](https://www.youtube.com/watch?v=4q9p32L_gZc)
-
 ---
 ## Computer Programming
 ---
@@ -74,3 +46,30 @@ SalvationPC receives donations of computer hardware that we distribute to the le
 * Business Model  [deck](https://drive.google.com/open?id=1XDhYpjqmDSUPax3Wluco-qd6N_PvB-oD) , [Lean Canvas Modelling](https://drive.google.com/open?id=1uxCyN-N1rmDb8dDx8xiLC-YYfsZkksjqaPr4r0-Sk4Q)
 * Latest investor update : [report](https://drive.google.com/open?id=1YGos7Isf70lu3iPDpb9eBmMRd5SEsP3x)
 
+## Music Portfolio
+---
+
+### There Will Never Be Another You
+This jazz standard by Harry Warren is a popular tune that is called very often at jam sessions. Because it is my favorite tune, I have sought to pay homage to its original arrangement as a jazz ballad. I recorded this tune with Michael Mitchell (drums) and Danny Gerz (bass) in a guitar trio format on October 8, 2019.
+
+* [https://www.youtube.com/watch?v=A12zThJqDos](https://www.youtube.com/watch?v=A12zThJqDos)
+
+### Donna Lee
+Miles Davis tunes have always inspired me, and this contrafact over the changes to Back Home in Indiana is both an exciting tune and a harmonically dense piece. I recorded this tune with Michael Mitchell (drums) and Danny Gerz (bass) in a guitar trio format on October 8, 2019.
+
+* [https://www.youtube.com/watch?v=MXPY_Cp8gCo](https://www.youtube.com/watch?v=MXPY_Cp8gCo)
+
+### Chi Chi
+Charlie Parker’s blues heads have long been a subject of discussion, and I have rigorously studied some of his heads like Blues for Alice. Yet at jazz sessions, I am constantly surprised by how rarely played Chi Chi is. I recorded this tune with Michael Mitchell (drums) and Danny Gerz (bass) in a guitar trio format on October 8, 2019.
+
+* [https://www.youtube.com/watch?v=MIPDI9J8fgE](https://www.youtube.com/watch?v=MIPDI9J8fgE)
+
+### Wave
+I have chosen this Latin tune by Antonio Carlos Jobim because of its incredible harmony. I recorded this tune with Michael Mitchell (drums) and Danny Gerz (bass) in a guitar trio format on October 8, 2019.
+
+* [https://www.youtube.com/watch?v=Ir75kPHzuM4](https://www.youtube.com/watch?v=Ir75kPHzuM4)
+
+### Deluge
+Wayne Shorter’s modern extension of the bebop language has always fascinated me. This rather short tune is unique because of its modal qualities and the interpretive freedom it grants the improviser. I recorded this tune with Michael Mitchell (drums) and Danny Gerz (bass) in a guitar trio format on October 8, 2019.
+
+* [https://www.youtube.com/watch?v=4q9p32L_gZc](https://www.youtube.com/watch?v=4q9p32L_gZc)
